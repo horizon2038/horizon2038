@@ -1,7 +1,9 @@
 <h1 align="center"> Hello, I'm horizon! 👋 </h1>
 
+Hello, I'm Rekka "horizon" IGUMI.
+
 I am a Japanese software developer with a passion for everything from low-level programming to software architecture.
-My main interests lie in *Microkernels* and *Hypervisors*.
+My main interests lie in *Microkernel* and *Hypervisor*.
 
 ### Awards
 
@@ -9,6 +11,11 @@ My main interests lie in *Microkernels* and *Hypervisors*.
   - Project : *A9N - A Microkernel Achieving Portability Using HAL*
 - 2024-06 [MITOU IT Creator](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-sg-2.html)
   - Project : *Secure User-Level Memory Management System with a Capability-Based Microkernel*
+
+### Experience
+
+- 2024-06 - : [Diver-X, Inc.](https://diver-x.jp/)
+- 2025-04 - : [Keio University](https://www.keio.ac.jp/), [Environment and Information Studies](https://www.sfc.keio.ac.jp/)
 
 ## 🌐 Languages and Tools
 
@@ -33,8 +40,6 @@ My main interests lie in *Microkernels* and *Hypervisors*.
     <img src="https://img.shields.io/badge/unity-00599c?style=for-the-badge&logo=unity" />
   </a>
 </p>
-
-
 
 ## ⚡️ Stats
 <p align="center">
