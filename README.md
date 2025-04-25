@@ -16,6 +16,7 @@ My main interests lie in *Microkernel* and *Hypervisor*.
 
 - 2024-06 - : [Diver-X, Inc.](https://diver-x.jp/)
 - 2025-04 - : [Keio University](https://www.keio.ac.jp/), [Environment and Information Studies](https://www.sfc.keio.ac.jp/)
+- 2025-04 - : [SFC-RG VIRT/ARCH](https://arch.sfc.wide.ad.jp/)
 
 ## 🌐 Languages and Tools
 
@@ -43,8 +44,8 @@ My main interests lie in *Microkernel* and *Hypervisor*.
 
 ## ⚡️ Stats
 <p align="center">
-    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=horizon2038&theme=holi&layout=donut-vertical" />
-    <img height=250 src="https://github-readme-stats.vercel.app/api?username=horizon2038&theme=holi" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=horizon2038&theme=holi&layout=donut-vertical" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=horizon2038&theme=holi" />
 </p>
 
 <!--
