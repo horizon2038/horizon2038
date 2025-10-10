@@ -5,24 +5,25 @@ Hello, I'm Rekka "horizon" IGUMI.
 I am a Japanese software developer with a passion for everything from low-level programming to software architecture.
 My main interests lie in *Microkernel* and *Hypervisor*.
 
-### Awards
+### Affiliations
 
-- 2023-05: [MITOU Junior Super Creator](https://jr.mitou.org/projects/2023/a9n)
+- 2023-05 - 2023-11: Creator, [MITOU Junior Program](https://jr.mitou.org/projects/2023/a9n)
   - Project : *A9N - A Microkernel Achieving Portability Using HAL*
   - The presentation video is available [here](https://youtu.be/VJOOFltOJJk?si=LBfk2IhD_jKtejJa)
-- 2023-12: [MITOU Junior Super Creator](https://jr.mitou.org/projects/2023/a9n)
-  - [Press Release](https://prtimes.jp/main/html/rd/p/000000014.000022934.html)
-- 2024-06: [MITOU IT Creator](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-sg-2.html)
+- 2024-06 - Present: Member, [Diver-X, Inc.](https://diver-x.jp/)
+- 2024-06 - 2025-03: Creator, [MITOU IT Program](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-sg-2.html)
   - Project : *Secure User-Level Memory Management System with a Capability-Based Microkernel*
   - The presentation video is available [here](https://youtu.be/YG5ikc-X_Kg?si=bVjdbYTw5z3Zx7Pl)
-- 2025-05: [MITOU IT Super Creator](https://www.ipa.go.jp/jinzai/mitou/koubo/career/2024/2024-supercreator-14.html)
-  - [Press Release](https://www.meti.go.jp/press/2025/05/20250529001/20250529001.html)
-
-### Experience
-
-- 2024-06 - Present: Member, [Diver-X, Inc.](https://diver-x.jp/)
+- 2024-07 - Present: Member, [MITOU Foundation](https://mitou.org/)
 - 2025-04 - Present: Undergraduate Student, [Keio University](https://www.keio.ac.jp/), [Environment and Information Studies](https://www.sfc.keio.ac.jp/)
 - 2025-04 - Present: Member, [SFC-RG](https://rg.sfc.keio.ac.jp/) VIRT/[ARCH](https://arch.sfc.wide.ad.jp/) (Kusumoto/Takashio/Van Meter/Uehara/Mitsugi/Nakazawa/Okoshi Joint Research Group)
+
+### Certificate
+
+- 2023-12: [MITOU Junior Super Creator](https://jr.mitou.org/projects/2023/a9n)
+  - [Press Release](https://prtimes.jp/main/html/rd/p/000000014.000022934.html)
+- 2025-05: [MITOU IT Super Creator](https://www.ipa.go.jp/jinzai/mitou/koubo/career/2024/2024-supercreator-14.html)
+  - [Press Release](https://www.meti.go.jp/press/2025/05/20250529001/20250529001.html)
 
 ## 🌐 Languages and Tools
 
@@ -60,19 +61,4 @@ My main interests lie in *Microkernel* and *Hypervisor*.
 - The IDOLM@STER(OG, Cindelella Girls, Million Live, SideM, Shiny Colors, Gakuen)
 - Love Live!(OG, Sunshine, Nijigasaki, Superstar!!)
 - Girls' Musical Revue Starlight
--->
-
-<!--
-**horizon2038/horizon2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
