@@ -17,6 +17,12 @@ My main interests lie in *Microkernel* and *Hypervisor*.
 - 2024-07 - Present: Member, [MITOU Foundation](https://mitou.org/)
 - 2025-04 - Present: Undergraduate Student, [Keio University](https://www.keio.ac.jp/), [Environment and Information Studies](https://www.sfc.keio.ac.jp/)
 - 2025-04 - Present: Member, [SFC-RG](https://rg.sfc.keio.ac.jp/) VIRT/[ARCH](https://arch.sfc.wide.ad.jp/) (Kusumoto/Takashio/Van Meter/Uehara/Mitsugi/Nakazawa/Okoshi Joint Research Group)
+- 2025-12 - Present: Technical Staff, [Continuum Computing Infrastructure Research Team](https://www.digiarc.aist.go.jp/team/ccirt/), [Intelligent Platform Research Institute (IPRI)](https://unit.aist.go.jp/ipri/), [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/)
+
+
+<!--
+<li>2025-12 - Present: Technical Staff, <a href="https://www.digiarc.aist.go.jp/team/ccirt/">Continuum Computing Infrastructure Research Team</a>, <a href="https://unit.aist.go.jp/ipri/">Intelligent Platform Research Institute (IPRI)</a>, <a href="https://www.aist.go.jp/">National Institute of Advanced Industrial Science and Technology (AIST)</a></li>
+-->
 
 ### Certificate
 
