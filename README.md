@@ -57,8 +57,8 @@ My main interests lie in *Microkernel* and *Hypervisor*.
 
 ## ⚡️ Stats
 <p align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=horizon2038&theme=holi&layout=donut-vertical" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=horizon2038&theme=holi" />
+    <img height=200 src="https://github-readme-stats-pearl-psi-13.vercel.app/api/top-langs/?username=horizon2038&theme=holi&layout=donut-vertical" />
+    <img height=200 src="https://github-readme-stats-pearl-psi-13.vercel.app/api?username=horizon2038&theme=holi" />
 </p>
 
 <!--
